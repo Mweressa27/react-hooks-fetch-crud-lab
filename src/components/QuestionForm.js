@@ -105,4 +105,4 @@ function QuestionForm(props) {
   );
 }
 
-export default QuestionForm;
+export default QuestionForm
